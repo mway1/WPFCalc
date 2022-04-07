@@ -1,0 +1,12 @@
+D:\Desktop\HM_Devedu\WPFCalc\WPFCalculator\Calc\bin\Release\net5.0\Calc.deps.json
+D:\Desktop\HM_Devedu\WPFCalc\WPFCalculator\Calc\bin\Release\net5.0\Calc.dll
+D:\Desktop\HM_Devedu\WPFCalc\WPFCalculator\Calc\bin\Release\net5.0\ref\Calc.dll
+D:\Desktop\HM_Devedu\WPFCalc\WPFCalculator\Calc\bin\Release\net5.0\Calc.pdb
+D:\Desktop\HM_Devedu\WPFCalc\WPFCalculator\Calc\obj\Release\net5.0\Calc.csproj.AssemblyReference.cache
+D:\Desktop\HM_Devedu\WPFCalc\WPFCalculator\Calc\obj\Release\net5.0\Calc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\HM_Devedu\WPFCalc\WPFCalculator\Calc\obj\Release\net5.0\Calc.AssemblyInfoInputs.cache
+D:\Desktop\HM_Devedu\WPFCalc\WPFCalculator\Calc\obj\Release\net5.0\Calc.AssemblyInfo.cs
+D:\Desktop\HM_Devedu\WPFCalc\WPFCalculator\Calc\obj\Release\net5.0\Calc.csproj.CoreCompileInputs.cache
+D:\Desktop\HM_Devedu\WPFCalc\WPFCalculator\Calc\obj\Release\net5.0\Calc.dll
+D:\Desktop\HM_Devedu\WPFCalc\WPFCalculator\Calc\obj\Release\net5.0\ref\Calc.dll
+D:\Desktop\HM_Devedu\WPFCalc\WPFCalculator\Calc\obj\Release\net5.0\Calc.pdb

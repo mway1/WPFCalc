@@ -24,5 +24,22 @@ namespace Calc.WPF
         {
             InitializeComponent();
         }
+
+        private void ButtonPlus_Copy_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void ButtonZero_Click(object sender, RoutedEventArgs e)
+        {
+            TextBlockOutput.Text += "0";
+        }
+
+        private void ButtonOne_Click(object sender, RoutedEventArgs e)
+        {
+            int n = Convert.ToInt32(ButtonOne.Content);
+            TextBlockOutput.Text += $"{n} ";
+
+        }
     }
 }

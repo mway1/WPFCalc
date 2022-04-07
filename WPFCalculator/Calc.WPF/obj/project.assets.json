@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0-windows7.0": {}
+    "net5.0-windows7.0": {
+      "Calc/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Calc.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Calc.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Calc/1.0.0": {
+      "type": "project",
+      "path": "../Calc/Calc.csproj",
+      "msbuildProject": "../Calc/Calc.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0-windows7.0": []
+    "net5.0-windows7.0": [
+      "Calc >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\mway2\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Desktop\\HM_Devedu\\WPFCalc\\WPFCalculator\\Calc\\Calc.csproj": {
+              "projectPath": "D:\\Desktop\\HM_Devedu\\WPFCalc\\WPFCalculator\\Calc\\Calc.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
